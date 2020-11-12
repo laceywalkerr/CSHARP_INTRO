@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "4aeh5XK0lmx/Eza3nfcTGpY8CN3xWfJrmiAiTSC3YJljRp/LW8LVvXwHN6yxb4u4lD6DsuHkbilbN8ulFUnMNA==",
+  "dgSpecHash": "b+cQt9fwuusGoMxxCXIWp868sGwGfudeQH5wHsN3BVRFmjmwd2KIUVdD/mL/7ZMjeimOfLnpFmSJBzy6vQRWxQ==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Lacey\\workspace\\csharp2\\Intro\\Intro.csproj",
+  "projectFilePath": "C:\\Users\\Lacey\\workspace\\csharp2\\intro\\Intro.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }
